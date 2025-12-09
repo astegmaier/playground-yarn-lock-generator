@@ -5,9 +5,9 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"basic@workspace:.":
+"basic-test@workspace:.":
   version: 0.0.0-use.local
-  resolution: "basic@workspace:."
+  resolution: "basic-test@workspace:."
   dependencies:
     react-dom: "npm:^19.2.1"
   languageName: unknown
