@@ -1,5 +1,5 @@
 {
-  "name": "basic-test",
+  "name": "links-test",
   "version": "1.0.0",
   "dependencies": {
     "scheduler": "link:./local-scheduler-package"

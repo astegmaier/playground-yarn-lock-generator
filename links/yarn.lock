@@ -5,16 +5,16 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"basic-test@workspace:.":
+"links-test@workspace:.":
   version: 0.0.0-use.local
-  resolution: "basic-test@workspace:."
+  resolution: "links-test@workspace:."
   dependencies:
     scheduler: "link:./local-scheduler-package"
   languageName: unknown
   linkType: soft
 
-"scheduler@link:./local-scheduler-package::locator=basic-test%40workspace%3A.":
+"scheduler@link:./local-scheduler-package::locator=links-test%40workspace%3A.":
   version: 0.0.0-use.local
-  resolution: "scheduler@link:./local-scheduler-package::locator=basic-test%40workspace%3A."
+  resolution: "scheduler@link:./local-scheduler-package::locator=links-test%40workspace%3A."
   languageName: node
   linkType: soft
