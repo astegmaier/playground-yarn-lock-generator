@@ -86,9 +86,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"installed-package-with-npm-protocol2-test@workspace:.":
+"installed-package-with-npm-protocol-test@workspace:.":
   version: 0.0.0-use.local
-  resolution: "installed-package-with-npm-protocol2-test@workspace:."
+  resolution: "installed-package-with-npm-protocol-test@workspace:."
   dependencies:
     "@isaacs/cliui": "npm:8.0.2"
   languageName: unknown
