@@ -1,5 +1,5 @@
 {
-  "name": "basic-test",
+  "name": "workspaces-test",
   "version": "1.0.0",
   "workspaces": [
     "folder-a",

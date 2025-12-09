@@ -5,12 +5,6 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"basic-test@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "basic-test@workspace:."
-  languageName: unknown
-  linkType: soft
-
 "package-a@workspace:folder-a":
   version: 0.0.0-use.local
   resolution: "package-a@workspace:folder-a"
@@ -40,3 +34,9 @@ __metadata:
   checksum: 10c0/4f03048cb05a3c8fddc45813052251eca00688f413a3cee236d984a161da28db28ba71bd11e7a3dd02f7af84ab28d39fb311431d3b3772fed557945beb00c452
   languageName: node
   linkType: hard
+
+"workspaces-test@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "workspaces-test@workspace:."
+  languageName: unknown
+  linkType: soft
