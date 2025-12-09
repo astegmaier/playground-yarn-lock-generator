@@ -1,5 +1,5 @@
 {
-  "name": "installed-package-with-npm-protocol-test",
+  "name": "installed-package-with-npm-protocol-and-scoped-name-test",
   "version": "1.0.0",
   "dependencies": {
     "applicationinsights": "3.12.0"

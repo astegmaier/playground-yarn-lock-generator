@@ -1469,9 +1469,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"installed-package-with-npm-protocol-test@workspace:.":
+"installed-package-with-npm-protocol-and-scoped-name-test@workspace:.":
   version: 0.0.0-use.local
-  resolution: "installed-package-with-npm-protocol-test@workspace:."
+  resolution: "installed-package-with-npm-protocol-and-scoped-name-test@workspace:."
   dependencies:
     applicationinsights: "npm:3.12.0"
   languageName: unknown
