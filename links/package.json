@@ -1,0 +1,8 @@
+{
+  "name": "basic-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "scheduler": "link:./local-scheduler-package"
+  },
+  "packageManager": "yarn@4.12.0"
+}
