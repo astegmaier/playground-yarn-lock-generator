@@ -1,0 +1,13 @@
+{
+  "name": "resolutions-test",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "folder-a",
+    "folder-b"
+  ],
+  "resolutions": {
+    "scheduler": "^0.23.0",
+    "js-tokens": "^2.0.0"
+  }
+}
