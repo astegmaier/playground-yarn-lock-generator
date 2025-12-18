@@ -5,9 +5,9 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"typescript-test@workspace:.":
+"patches-builtin-test@workspace:.":
   version: 0.0.0-use.local
-  resolution: "typescript-test@workspace:."
+  resolution: "patches-builtin-test@workspace:."
   dependencies:
     typescript: "npm:5.8.2"
   languageName: unknown

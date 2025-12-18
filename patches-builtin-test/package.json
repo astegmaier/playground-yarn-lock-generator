@@ -1,5 +1,5 @@
 {
-  "name": "typescript-test",
+  "name": "patches-builtin-test",
   "version": "1.0.0",
   "dependencies": {
     "typescript": "5.8.2"
