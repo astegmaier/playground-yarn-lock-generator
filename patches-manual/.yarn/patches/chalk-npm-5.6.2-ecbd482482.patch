@@ -1,0 +1,13 @@
+diff --git a/readme.md b/readme.md
+index 5754e7cef9286fe48794ce1a71e5fe51a5db0cc1..f77568bfd25efdf5738bc547b958d0aa8e6df0c0 100644
+--- a/readme.md
++++ b/readme.md
+@@ -7,6 +7,8 @@
+ 	<br>
+ </h1>
+ 
++# HERE IS A PATCHED CHANGE TO THE CHALK PACKAGE APPLIED BY YARN 4
++
+ > Terminal string styling done right
+ 
+ [![Coverage Status](https://codecov.io/gh/chalk/chalk/branch/main/graph/badge.svg)](https://codecov.io/gh/chalk/chalk)

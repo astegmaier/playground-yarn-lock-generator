@@ -1,0 +1,13 @@
+diff --git a/readme.md b/readme.md
+index 5754e7cef9286fe48794ce1a71e5fe51a5db0cc1..5ddd81f5d28d250f54e5f8aeb497ba25e27e2c65 100644
+--- a/readme.md
++++ b/readme.md
+@@ -9,6 +9,8 @@
+ 
+ > Terminal string styling done right
+ 
++# THIS IS A MANUAL PATCH APPLIED TO VERSION 5.6.2 OF THE CHALK PACKAGE BY YARN4
++
+ [![Coverage Status](https://codecov.io/gh/chalk/chalk/branch/main/graph/badge.svg)](https://codecov.io/gh/chalk/chalk)
+ [![npm dependents](https://badgen.net/npm/dependents/chalk)](https://www.npmjs.com/package/chalk?activeTab=dependents)
+ [![Downloads](https://badgen.net/npm/dt/chalk)](https://www.npmjs.com/package/chalk)

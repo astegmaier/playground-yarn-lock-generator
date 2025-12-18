@@ -14,7 +14,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chalk@npm:^5.2.0":
+"chalk@npm:5.6.2":
   version: 5.6.2
   resolution: "chalk@npm:5.6.2"
   checksum: 10c0/99a4b0f0e7991796b1e7e3f52dceb9137cae2a9dfc8fc0784a550dc4c558e15ab32ed70b14b21b52beb2679b4892b41a0aa44249bcb996f01e125d58477c6976
@@ -25,6 +25,13 @@ __metadata:
   version: 5.0.1
   resolution: "chalk@npm:5.0.1"
   checksum: 10c0/97898611ae40cfdeda9778901731df1404ea49fac0eb8253804e8d21b8064917df9823e29c0c9d766aab623da1a0b43d0e072d19a73d4f62d0d9115aef4c64e6
+  languageName: node
+  linkType: hard
+
+"chalk@patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch":
+  version: 5.6.2
+  resolution: "chalk@patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch::version=5.6.2&hash=6e5ac4"
+  checksum: 10c0/92e6b7231d1ca738ecf8968510f135c2c8a26c5a7d53cd50c1c1dbeb4a345353f7fa7256a176502f1f1ee9a76c3755e3713e985fd7ebc3ea3641179d00f116d8
   languageName: node
   linkType: hard
 
