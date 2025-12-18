@@ -1,0 +1,9 @@
+{
+  "name": "patches-manual-transitive-test",
+  "version": "1.0.0",
+  "workspaces": [
+    "folder-a",
+    "folder-b"
+  ],
+  "packageManager": "yarn@4.12.0"
+}
