@@ -5,10 +5,17 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"chalk@npm:^5.6.2":
+"chalk@npm:5.6.2":
   version: 5.6.2
   resolution: "chalk@npm:5.6.2"
   checksum: 10c0/99a4b0f0e7991796b1e7e3f52dceb9137cae2a9dfc8fc0784a550dc4c558e15ab32ed70b14b21b52beb2679b4892b41a0aa44249bcb996f01e125d58477c6976
+  languageName: node
+  linkType: hard
+
+"chalk@patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch":
+  version: 5.6.2
+  resolution: "chalk@patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch::version=5.6.2&hash=7fcc70"
+  checksum: 10c0/77c9f1d970ba5e43e75ec5f046cbb7831f3c81e493c68b814c82f8714fef5498cc4a0ad73ea109ace24906c5e8715869c3c197818601fbeab33706de206b8257
   languageName: node
   linkType: hard
 
@@ -16,6 +23,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "patches-manual-test@workspace:."
   dependencies:
-    chalk: "npm:^5.6.2"
+    chalk: "patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch"
   languageName: unknown
   linkType: soft
