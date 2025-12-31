@@ -15,6 +15,10 @@
       "chalk@npm:^5.2.0": "patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch",
       "chalk-template@1.1.2/chalk": "patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch",
       "chalk-template@npm:1.1.2/chalk": "patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch",
+      "chalk-template@1.1.2/chalk@^5.2.0": "patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch",
+      "chalk-template@1.1.2/chalk@npm:^5.2.0": "patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch",
+      "chalk-template@npm:1.1.2/chalk@^5.2.0": "patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch",
+      "chalk-template@npm:1.1.2/chalk@npm:^5.2.0": "patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch",
       "chalk-template/chalk": "patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch",
       "chalk-template/chalk@^5.2.0": "patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch",
       "chalk-template/chalk@npm:^5.2.0": "patch:chalk@npm%3A5.6.2#~/.yarn/patches/chalk-npm-5.6.2-ecbd482482.patch"
